@@ -47,4 +47,5 @@ Features:
 ---
 
 URL :  
-[https://username.github.io/qr-code-generator](https://username.github.io/qr-code-generator)
+[[ ](https://username.github.io/qr-code-generator)](https://miw4n.github.io/Simple-QR-Code-generator/)
+ 
